@@ -1,2 +1,2 @@
 # react-digital-clock
-Created with CodeSandbox
+Dynamic clock using react hooks
